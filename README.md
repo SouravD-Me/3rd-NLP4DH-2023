@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the research paper titled "Combating Hallucination and Misinformation: Factual Information Generation with Tokenized Generative Transformer," published in the Proceedings of the Joint 3rd NLP4DH and 8th IWCLUL, December 1-3, 2023.
+This repository contains the research paper titled "Combating Hallucination and Misinformation: Factual Information Generation with Tokenized Generative Transformer," published in the Proceedings of the Joint 3rd NLP4DH and 8th IWCLUL, December 1-3, 2023, jointly organized by [Waseda University, Tokyo](https://www.waseda.jp/top/en/) and [Rootroo](https://rootroo.com/en/).
 
 The paper proposes a novel framework for generating accurate and relevant information from large corpora of text, combining a contextual topic modeling algorithm (Co-LDA) with a tokenizer-based generative transformer (TGT) network. The approach aims to overcome the limitations of existing language models, such as hallucination and misinformation generation, by capturing contextual relationships between topics and generating informative sentences based on extracted topic words.
 

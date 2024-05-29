@@ -18,6 +18,12 @@ The paper proposes a novel framework for generating accurate and relevant inform
 
 Please note that we cannot provide the source code immediately due to ethical reasons and the extended version of this paper being under peer-review in a journal. However, we plan to release the code once the peer-review process is complete and approvals are obtained.
 
+## Contact
+
+For any inquiries or further information, please contact the corresponding author:
+
+**Sourav Das** (sourav.das.research@gmail.com / sourav_phd21@iiitkalyani.ac.in)
+
 ## Citation
 
 If you find this research helpful in your work, please consider citing the paper:
